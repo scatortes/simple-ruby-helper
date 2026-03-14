@@ -14,4 +14,6 @@ This repository is designed to assist with Ruby programming by providing helpful
 Clone the repository and explore the helper functions provided.
 
 ## Future Plans
-- Add more utilities and documentation for each function.
+- Improve existing utilities.
+- Expand the library with more functions and examples.
+- Create comprehensive documentation for all functions.
